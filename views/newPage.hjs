@@ -1,0 +1,61 @@
+
+
+<head>
+  <img src="/images/projbetter.png" alt="LogoHere" style="width:300px;height:50px;">
+  <h2>Enter your praise or complaint:</h2>
+  <title>{{ title }}</title>
+  <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css' />
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap-theme.min.css' />
+  <link rel='stylesheet' href = '/stylesheets/style2.css' />
+  <script src="/javascripts/test.js"></script>
+</head>
+
+<!-- <form id="contact-form" action="script.php" method="post"> -->
+
+<ul>
+<li><label for="name">Full Name:</label> <input type="text" name="name" id="name" value="" /></li>
+<li><label for="email">Email:</label> <input type="text" name="email" id="email" value="" /></li>
+
+</ul>
+
+<ul>
+  <li>Please check all the emotions that apply to you:
+    <ul id="emotions">
+      <li><label for="angry">Angry</label> <input type="checkbox" name="angry" id="angry" value="angry"></li>
+      <li><label for="sad">Sad</label> <input type="checkbox" name="sad" id="sad" value="sad"></li>
+      <li><label for="happy">Happy</label> <input type="checkbox" name="happy" id="happy" value="happy"></li>
+      <li><label for="ambivalent">Ambivalent</label> <input type="checkbox" name="ambivalent" id="ambivalent" value="ambivalent"></li>
+    </ul>
+  </li>
+  <li>How satisfied or dissatisfied are you?
+    <ul id="satisfaction">
+      <li><label for="vsat">Very satisfied</label> <input type="radio" name="satisfaction" id="vsat" value="vsat"></li>
+      <li><label for="sat">Satisfied</label> <input type="radio" name="satisfaction" id="sat" value="sat"></li>
+      <li><label for="dcare">Didn't care</label> <input type="radio" name="satisfaction" id="dcare" value="dcare"></li>
+      <li><label for="disat">Dissatisfied</label> <input type="radio" name="satisfaction" id="disat" value="disat"></li>
+      <li><label for="vdisat">Very dissatisfied</label> <input type="radio" name="satisfaction" id="vdisat" value="vdisat"></li>
+    </ul>
+  </li>
+  <li><label for="comments">Further comments:</label> <textarea name="comments" id="comments" cols="25" rows="3"></textarea></li>
+</ul>
+
+<ul>
+  <li><label for="photo">Photo:</label> <input type="file" name="photo" id="photo" value="" /></li>
+  <li><label for="location">Campus:</label>
+  <select name="location" id="location">
+    <option value="">Select location</option>
+    <option value="livi">Livingston</option>
+    <option value="collegeave">College Ave</option>
+    <option value="bus">Busch</option>
+    <option value="cook">Cook Douglas</option>
+  </select></li>
+</ul>
+<li><input type="submit" value="Submit" id="submitBtn"/></li>
+
+<!-- </form> -->
