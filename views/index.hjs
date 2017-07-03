@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<title>Better NJIT</title>
+<title>NoAC</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -21,15 +21,15 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-black w3-card-2">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#mainNJIT" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
-    onclick = window.open("http://www.njit.edu")>MainNJIT</a>
+    onclick = window.open("http://www.njit.edu")>MAIN/a>
     <a href="#moodleNJIT" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
-    onclick = window.open("http://moodle.njit.edu")>MOODLE</a>
-    <a href="#survey" class="w3-bar-item w3-button w3-padding-large w3-hide-small">SURVEY</a>
+    onclick = window.open("http://moodle.njit.edu")>SHOP</a>
+    <a href="#survey" class="w3-bar-item w3-button w3-padding-large w3-hide-small">INQUIRIES</a>
     <a href="#news" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
     onclick = window.open("http://news.njit.edu")>NEWS</a>
     <a href="#events" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
     onclick = window.open("https://ruevents.rutgers.edu/events/")>EVENTS</a>
-    <a href="#maps" class="w3-bar-item w3-button w3-padding-large w3-hide-small">MAPS</a>
+    <a href="#maps" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT US</a>
     <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
@@ -85,14 +85,10 @@ body {font-family: "Lato", sans-serif}
   <!-- The Better NJIT Section -->
   <div class="w3-black">
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:900px" id="mission">
-    <h2 class="w3-wide">OUR MISSION: MAKING A BETTER NJIT</h2>
-    <p class="w3-opacity"><i>We love our campus and our campus loves us.</i></p>
+    <h2 class="w3-wide">No AC because it's only heat.</h2>
+    <p class="w3-opacity"><i>We love you and your face.</i></p>
     <center>
-      <p class="w3-justify"><font size="5.5">We have created a website where professors and students can all contribute to the well-being of our campus.
-        Students and professors encounter many things the higher ups of NJIT may not know of. This app will allow you to report anything
-      from vandalism, online bullying, sexual harassment, drug abuse and other negative issues that you may think need attention.
-      Please screenshot or take a picture to provide us with a better understanding of the situation you have experienced. This website
-      also allows for you to leave positive feedback if you please to do so.</font></p>
+      <p class="w3-justify"><font size="5.5">We the best music.</font></p>
     </center>
     </div>
   </div>
