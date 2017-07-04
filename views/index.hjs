@@ -16,12 +16,12 @@ body {font-family: "Lato", sans-serif}
 
 
 <body>
-<!-- Navbar -->
+<!-- Navbar
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card-2">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#mainNJIT" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
-    onclick = window.open("http://www.njit.edu")>MAIN/a>
+    onclick = window.open("http://www.njit.edu")>MAIN</a>
     <a href="#moodleNJIT" class="w3-bar-item w3-button w3-padding-large w3-hide-small"
     onclick = window.open("http://moodle.njit.edu")>SHOP</a>
     <a href="#survey" class="w3-bar-item w3-button w3-padding-large w3-hide-small">INQUIRIES</a>
@@ -39,10 +39,24 @@ body {font-family: "Lato", sans-serif}
         <a href="#" class="w3-bar-item w3-button"onclick = window.open("https://www.seamless.com/search?orderMethod=delivery&locationMode=DELIVERY&facetSet=umamiV2&pageSize=20&hideHateos&queryText=Healthy&latitude=40.48621749&longitude=-74.45182038&variationId=dishPopularityConversionScore&sortSetId=umamiV2&countOmittingTimes")>Healthy Food</a>
       </div>
     </div>
-    <!--<a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a> -->
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
+-->
 
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
 <!-- Navbar on small screens
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
   <a href="#logo" class="w3-bar-left"><img src="/images/logo.png"></a>
