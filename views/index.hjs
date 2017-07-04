@@ -57,7 +57,7 @@ body {font-family: "Lato", sans-serif}
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
 
-  <!-- Automatic Slideshow Images -->
+  <!-- Automatic Slideshow Images
 <div class="w3-black">
   <div class="mySlides w3-display-container w3-center">
     <img src="/images/concert.png" style="width:100%">
@@ -80,7 +80,7 @@ body {font-family: "Lato", sans-serif}
     </div>
   </div>
 </div>
-
+-->
 
   <!-- The Better NJIT Section -->
   <div class="w3-black">
