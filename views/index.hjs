@@ -60,7 +60,7 @@ body {font-family: "Lato", sans-serif}
   <!-- Automatic Slideshow Images -->
 <div class="w3-black">
   <div class="mySlides w3-display-container w3-center">
-    <h3><img src="/images/reason.png" style="width:75%">
+    <h3><img src="/images/logo.png" style="width:75%">
     <img src="/images/concert.png" style="width:100%">
     <div class="w3-display-top w3-container w3-text-white w3-padding-32 w3-hide-small">
 
