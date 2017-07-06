@@ -79,24 +79,24 @@ body, html {
   <p class="w3-center w3-large">Key features of our company</p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
-      <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
-      <p class="w3-large">Responsive</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+      <i class="fa fa-balance-scale w3-margin-bottom w3-jumbo w3-center"></i>
+      <p class="w3-large">Diverse</p>
+      <p>We like to keep our beats, rythms, and genres diverse. #BALANCE</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Passion</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+      <p>Our love for music and the world of hip hop is what fuels us to make music.</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa- w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Design</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+      <p class="w3-large">Community</p>
+      <p>We love our fans and our main goal is to give back to the communities that raised us.</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-headphones w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Support</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+      <p class="w3-large">Sound</p>
+      <p>We use beats that are under our license and our voices are not altered.</p>
     </div>
   </div>
 </div>
