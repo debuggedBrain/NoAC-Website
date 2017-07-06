@@ -89,7 +89,7 @@ body, html {
       <p>Our love for music and the world of hip hop is what fuels us to make music.</p>
     </div>
     <div class="w3-quarter">
-      <i class="fa fa- w3-margin-bottom w3-jumbo"></i>
+      <i class="fa fa-group w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Community</p>
       <p>We love our fans and our main goal is to give back to the communities that raised us.</p>
     </div>
