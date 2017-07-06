@@ -28,10 +28,10 @@ body, html {
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card-2" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide">NOAC MUSIC</a>
+    <a href="#home" class="w3-bar-item w3-button w3-wide">NOAC | MUSIC</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
+      <a href="#about" class="w3-bar-item w3-button"><i class="fa fa-child"></i> ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
       <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> STUFF</a>
@@ -96,7 +96,7 @@ body, html {
     <div class="w3-quarter">
       <i class="fa fa-headphones w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Sound</p>
-      <p>We use beats that are under our license and our voices are not altered.</p>
+      <p>We use beats that are under our license and we do not torrent.</p>
     </div>
   </div>
 </div>
