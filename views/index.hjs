@@ -28,13 +28,13 @@ body, html {
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card-2" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide">LOGO</a>
+    <a href="#home" class="w3-bar-item w3-button w3-wide">NOAC</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
-      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PRICING</a>
+      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> STUFF</a>
       <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -118,14 +118,14 @@ body, html {
 <!-- Team Section -->
 <div class="w3-container" style="padding:128px 16px" id="team">
   <h3 class="w3-center">THE TEAM</h3>
-  <p class="w3-center w3-large">The ones who runs this company</p>
+  <p class="w3-center w3-large">The ones who runs it</p>
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
         <img src="/w3images/team2.jpg" alt="John" style="width:100%">
         <div class="w3-container">
-          <h3>John Doe</h3>
-          <p class="w3-opacity">CEO & Founder</p>
+          <h3>Sinatra</h3>
+          <p class="w3-opacity">Marketing</p>
           <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
@@ -135,7 +135,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
         <div class="w3-container">
-          <h3>Anja Doe</h3>
+          <h3>Pharaoh</h3>
           <p class="w3-opacity">Art Director</p>
           <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
@@ -146,7 +146,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
         <div class="w3-container">
-          <h3>Mike Ross</h3>
+          <h3>Boulos</h3>
           <p class="w3-opacity">Web Designer</p>
           <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
@@ -157,7 +157,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
         <div class="w3-container">
-          <h3>Dan Star</h3>
+          <h3>Arthur</h3>
           <p class="w3-opacity">Designer</p>
           <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
