@@ -34,7 +34,7 @@ body, html {
       <a href="#about" class="w3-bar-item w3-button"><i class="fa fa-drivers-license"></i> ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-group"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> CULTURE</a>
-      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> STUFF</a>
+      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-music"></i> MUSIC</a>
       <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -51,7 +51,7 @@ body, html {
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
   <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">CULTURE</a>
-  <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">STUFF</a>
+  <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">MUSIC</a>
   <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
 </nav>
 
@@ -67,9 +67,9 @@ body, html {
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
     <i class="fa fa-instagram w3-hover-opacity"></i>
     <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-youtube w3-hover-opacity"></i>
     <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
+    <i class="fa fa-soundcloud w3-hover-opacity"></i>
   </div>
 </header>
 
