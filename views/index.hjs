@@ -117,7 +117,7 @@ body, html {
 
 <!-- Team Section -->
 <div class="w3-container" style="padding:128px 16px" id="team">
-  <h3 class="w3-center">THE TEAM</h3>
+  <h3 class="w3-center">THE SQUAD</h3>
   <p class="w3-center w3-large">The ones who run it</p>
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -126,7 +126,7 @@ body, html {
         <div class="w3-container">
           <h3>Sinatra</h3>
           <p class="w3-opacity">Artist</p>
-          <p>"If it don't thump, it don't bump."</p>
+          <p>"If it don't thump, it don't bump. If it don't bump, cut it."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
@@ -137,7 +137,7 @@ body, html {
         <div class="w3-container">
           <h3>Pharaoh</h3>
           <p class="w3-opacity">Artist</p>
-          <p>"The party start when my team pull up."</p>
+          <p>"The party start when my team pull up. Otherwise, it's a gathering."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
@@ -148,7 +148,7 @@ body, html {
         <div class="w3-container">
           <h3>Boulos</h3>
           <p class="w3-opacity">Artist</p>
-          <p></p>
+          <p>"Do you believe in love at first sight, or do I have to walk by again?"</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
@@ -170,7 +170,7 @@ body, html {
         <div class="w3-container">
           <h3>Bash</h3>
           <p class="w3-opacity">Artist</p>
-          <p>"It's fine, just chillout."</p>
+          <p>"It's fine, just chillout. Look, it's fine, just chillout."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
