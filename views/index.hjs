@@ -124,7 +124,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team2.jpg" alt="John" style="width:100%">
         <div class="w3-container">
-          <h3>Sinatra</h3>
+          <h3>Tank Sinatra</h3>
           <p class="w3-opacity">Artist</p>
           <p>"If it don't thump, it don't bump. If it don't bump, cut it."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
@@ -135,7 +135,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
         <div class="w3-container">
-          <h3>Pharaoh</h3>
+          <h3>Young Pharaoh</h3>
           <p class="w3-opacity">Artist</p>
           <p>"The party start when my team pull up. Otherwise, it's a gathering."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
@@ -157,7 +157,7 @@ body, html {
       <div class="w3-card-2">
         <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
         <div class="w3-container">
-          <h3>Ace</h3>
+          <h3>Ac3</h3>
           <p class="w3-opacity">Artist</p>
           <p>"Either we get lit or we get lit. Wait, we can also get lit."</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
@@ -171,6 +171,28 @@ body, html {
           <h3>Bash</h3>
           <p class="w3-opacity">Artist</p>
           <p>"It's fine, just chillout. Look, it's fine, just chillout."</p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card-2">
+        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <div class="w3-container">
+          <h3>Toju</h3>
+          <p class="w3-opacity">Producer</p>
+          <p>"Not decided yet,-----------------------------------"</p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card-2">
+        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <div class="w3-container">
+          <h3>Tone Baloney</h3>
+          <p class="w3-opacity">Producer</p>
+          <p>"Not decided yet,-----------------------------------"</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
