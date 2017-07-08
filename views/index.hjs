@@ -122,7 +122,7 @@ body, html {
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+        <img src="/w3images/team2.jpg" alt="Sinatra" style="width:100%">
         <div class="w3-container">
           <h3>Tank Sinatra</h3>
           <p class="w3-opacity">Artist</p>
@@ -133,7 +133,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="/w3images/team1.jpg" alt="Pharaoh" style="width:100%">
         <div class="w3-container">
           <h3>Young Pharaoh</h3>
           <p class="w3-opacity">Artist</p>
@@ -144,7 +144,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
+        <img src="/w3images/team3.jpg" alt="Boulos" style="width:100%">
         <div class="w3-container">
           <h3>Boulos</h3>
           <p class="w3-opacity">Artist</p>
@@ -155,7 +155,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="/w3images/team4.jpg" alt="Ac3" style="width:100%">
         <div class="w3-container">
           <h3>Ac3</h3>
           <p class="w3-opacity">Artist</p>
@@ -166,7 +166,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="/w3images/team1.jpg" alt="Bash" style="width:100%">
         <div class="w3-container">
           <h3>Bash</h3>
           <p class="w3-opacity">Artist</p>
@@ -177,7 +177,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="/w3images/team1.jpg" alt="Toju" style="width:100%">
         <div class="w3-container">
           <h3>Toju</h3>
           <p class="w3-opacity">Producer</p>
@@ -188,7 +188,7 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="/w3images/team1.jpg" alt="Tone" style="width:100%">
         <div class="w3-container">
           <h3>Tone Baloney</h3>
           <p class="w3-opacity">Producer</p>
