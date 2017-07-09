@@ -76,7 +76,7 @@ body, html {
 <!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
   <h3 class="w3-center">ABOUT US</h3>
-  <p class="w3-center w3-large">Key features of our company</p>
+  <p class="w3-center w3-large">Key features of our music</p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
       <i class="fa fa-balance-scale w3-margin-bottom w3-jumbo w3-center"></i>
@@ -96,7 +96,7 @@ body, html {
     <div class="w3-quarter">
       <i class="fa fa-headphones w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Sound</p>
-      <p>We use beats that are under our license and we do not torrent.</p>
+      <p>Any sounds in our music are created by us.</p>
     </div>
   </div>
 </div>
@@ -105,7 +105,7 @@ body, html {
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
-      <h3>We know music</h3>
+      <h3>We love music</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
     </div>
