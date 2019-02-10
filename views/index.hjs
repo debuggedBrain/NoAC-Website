@@ -12,7 +12,7 @@ body, html {
     height: 100%;
     line-height: 1.8;
 }
-/* Full height image header */
+
 .bgimg-1 {
     background-position: center;
     background-size: cover;
@@ -101,12 +101,11 @@ body, html {
   </div>
 </div>
 
-<!-- Promo Section - "We know design" -->
+
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
       <h3>We love music</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
@@ -115,7 +114,7 @@ body, html {
   </div>
 </div>
 
-<!-- Team Section -->
+
 <div class="w3-container" style="padding:128px 16px" id="team">
   <h3 class="w3-center">THE SQUAD</h3>
   <p class="w3-center w3-large">The ones who run it</p>
@@ -200,7 +199,7 @@ body, html {
   </div>
 </div>
 
-<!-- Promo Section "Statistics" -->
+
 <div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
   <div class="w3-quarter">
     <span class="w3-xxlarge">1</span>
@@ -220,7 +219,7 @@ body, html {
   </div>
 </div>
 
-<!-- Work Section -->
+
 <div class="w3-container" style="padding:128px 16px" id="work">
   <h3 class="w3-center">OUR CULTURE</h3>
   <p class="w3-center w3-large">What we love to </p>
@@ -256,7 +255,6 @@ body, html {
   </div>
 </div>
 
-<!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
@@ -265,7 +263,6 @@ body, html {
   </div>
 </div>
 
-<!-- Skills Section -->
 <div class="w3-container w3-light-grey w3-padding-64">
   <div class="w3-row-padding">
     <div class="w3-col m6">
@@ -388,10 +385,9 @@ body, html {
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-youtube w3-hover-opacity"></i>
   </div>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
 
-<!-- Add Google Maps -->
+
 <script>
 function myMap()
 {
@@ -417,8 +413,6 @@ function onClick(element) {
   captionText.innerHTML = element.alt;
 }
 
-
-// Toggle between showing and hiding the sidebar when clicking the menu icon
 var mySidebar = document.getElementById("mySidebar");
 
 function w3_open() {
@@ -429,16 +423,12 @@ function w3_open() {
     }
 }
 
-// Close the sidebar with the close button
+
 function w3_close() {
     mySidebar.style.display = "none";
 }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
-<!--
-To use this code on your website, get a free API key from Google.
-Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
--->
 
 </body>
 </html>
